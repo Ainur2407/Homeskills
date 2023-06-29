@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Homeskills/static/css/main.aa9ccee5.css",
+    "main.js": "/Homeskills/static/js/main.ab40a406.js",
+    "static/js/787.0b47393b.chunk.js": "/Homeskills/static/js/787.0b47393b.chunk.js",
+    "static/media/needajob.jpg": "/Homeskills/static/media/needajob.d85245f29410cbd9b83e.jpg",
+    "static/media/bg.jpg": "/Homeskills/static/media/bg.da17a07e62cd28df3a8f.jpg",
+    "static/media/jobs.jpg": "/Homeskills/static/media/jobs.bc48dd962f093f58d038.jpg",
+    "index.html": "/Homeskills/index.html",
+    "main.aa9ccee5.css.map": "/Homeskills/static/css/main.aa9ccee5.css.map",
+    "main.ab40a406.js.map": "/Homeskills/static/js/main.ab40a406.js.map",
+    "787.0b47393b.chunk.js.map": "/Homeskills/static/js/787.0b47393b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa9ccee5.css",
+    "static/js/main.ab40a406.js"
+  ]
+}
